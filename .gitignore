@@ -10,3 +10,4 @@ images
 /glove.6B.50d.txt
 /encoded_features
 /codes/model_weights/
+/Imagecaption_error.ipynb
